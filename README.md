@@ -1,3 +1,3 @@
-# Lab-1-Digital_1
+# Digital 1, Lab 1: COMPARACIÓN DE TECNOLOGÍA CMOS y TTL
 
-OHHHH
+
