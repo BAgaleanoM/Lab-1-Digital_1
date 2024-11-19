@@ -3,7 +3,7 @@
 ## Parte 1
 
 ### Especificaciones técnicas Negador TTL 74LS04
-Este integrtado tiene unos rangos de operación de $\textbf{asus}$
+Este integrtado tiene unos rangos de operación de $\text{asus}$
 
 ### Especificaciones técnicas Negador CMOS CD4069
 
