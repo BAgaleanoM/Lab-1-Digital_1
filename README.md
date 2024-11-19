@@ -2,8 +2,8 @@
 
 ## Parte 1
 
-###Especificaciones técnicas Negador TTL 74LS04
-###Especificaciones técnicas Negador CMOS CD4069
+### Especificaciones técnicas Negador TTL 74LS04
+### Especificaciones técnicas Negador CMOS CD4069
 
 ## Parte 2
 
