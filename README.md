@@ -6,7 +6,7 @@
 Este integrtado tiene unos rangos de operación de $\text{asus}$
 
 ### Especificaciones técnicas Negador CMOS CD4069
-
+\textbf{hola}
 ## Parte 2
 
 
