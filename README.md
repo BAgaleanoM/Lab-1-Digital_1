@@ -37,7 +37,7 @@ En comparación con los datos otorgados por los datasheet, los $t_{phl}$ y $t_{p
 
 ## Oscilador basado en compuertas NOT CMOS
 
-Se montaron los osciladores con las compuertas CMOS, como se pedía. El primero tenía 3 compuertas y el segundo 5 compuertas. En esta tipología deben montarse en cantidades impares de compuertas para que la salida sea oscilatoria y no $0$. En la teoría, se tiene que entre más compuertas NOT se pongan en serie, la salida tendrá una frecuencia más alta; esto fue lo que se obtuvo, en la primera imagen siguiente (oscilador de 3 compuertas) se observa que la frecuencia de la salida era de unos $5MHza$, mientras que en la segunda imagen, con un oscilador de 5 compuertas, la salida tenía una frecuencia de unos $26MHz$.   
+Se montaron los osciladores con las compuertas CMOS, como se pedía. El primero tenía 3 compuertas y el segundo 5 compuertas. En esta tipología deben montarse en cantidades impares de compuertas para que la salida sea oscilatoria y no $0$. En la teoría, se tiene que entre más compuertas NOT se pongan en serie, la salida tendrá una frecuencia más alta; esto fue lo que se obtuvo, en la primera imagen siguiente (oscilador de 3 compuertas) se observa que la frecuencia de la salida era de unos $5MHz$, mientras que en la segunda imagen, con un oscilador de 5 compuertas, la salida tenía una frecuencia de unos $26MHz$.   
 
 ![3_anillo](./3_anillo.jpg)
 
