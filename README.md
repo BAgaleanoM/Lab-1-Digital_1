@@ -21,7 +21,11 @@ De la metodología propuesta para medir el $V_{IH}$, $V_{IL}$, $V_{OH}$ y $V_{OL
 
 ![apli_diodo](./apli_diodo.png)
 
+Respecto al tiempo de subida y los demás tiempos 
 ![recuperacion](./recuperacion.jpg)
+
+
+## Oscilador basado en compuertas NOT CMOS 
 
 ![3_anillo](./3_anillo.jpg)
 
