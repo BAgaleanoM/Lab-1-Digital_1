@@ -28,13 +28,14 @@ Respecto al tiempo de subida y los demás tiempos de reacción:
 
 | **Parámetro**               | **74LS04**          | **CD4069**          |
 |-----------------------------|---------------------|---------------------|
-| **$t_r$ (Tiempo de subida)** | ~10 ns              | ~30 ns              |
-| **$t_f$ (Tiempo de bajada)** | ~10 ns              | ~30 ns              |
-| **$t_{PLH}$ (Retardo Propagación)** | ~15 ns          | ~30 ns              |
-| **$t_{PHL}$ (Retardo Propagación)** | ~15 ns          | ~30 ns              |
+| **$t_r$ (Tiempo de subida)** | ~19 ns              | ~79 ns              |
+| **$t_f$ (Tiempo de bajada)** | ~18.5 ns              | ~92 ns              |
+| **$t_{PLH}$ (Retardo Propagación)** | ~21.2 ns          | ~62 ns              |
+| **$t_{PHL}$ (Retardo Propagación)** | ~20 ns          | ~80 ns              |
 
+En comparación con los datos otorgados por los datasheet, los $t_{phl}$ y $t_{plh}$ obtenidos en el laboratorio son bastante más altos, esto puede ser a que no se tenían las condiciones de prueba que se expone en los datasheet. Respecto a los tiempos de subida y bajada, se puede evidenciar que los del integradoo de la familia TTL son menores como debería ser, aunque si se midiése corriente deberíamos notar que los CMOS consumen una menor cantidad.  
 
-tiempo de retardo ($t_{phl}$ y $t_{plh}$)
+tiempo de retardo ()
 ## Oscilador basado en compuertas NOT CMOS 
 
 ![3_anillo](./3_anillo.jpg)
