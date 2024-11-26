@@ -23,8 +23,14 @@ De la metodología propuesta para medir el $V_{IH}$, $V_{IL}$, $V_{OH}$ y $V_{OL
 ![apli_diodo](./apli_diodo.png)
 
 ### Tiempos de reacción
-Respecto al tiempo de subida y los demás tiempos 
+Respecto al tiempo de subida y los demás tiempos: 
 ![recuperacion](./recuperacion.jpg)
+
+|  | 74LS04 | CD4069 |
+|----------|----------|----------|
+| $t_r$    |    |    |
+| Row 2    |    |    |
+| Row 3    |    |    |
 
 
 ## Oscilador basado en compuertas NOT CMOS 
