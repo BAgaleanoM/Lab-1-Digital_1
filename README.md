@@ -23,10 +23,10 @@ De la metodología propuesta para medir el $V_{IH}$, $V_{IL}$, $V_{OH}$ y $V_{OL
 
 ![recuperacion](./recuperacion.jpg)
 
-![3_anillo](./3_anillo.png)
+![3_anillo](./3_anillo.jpg)
 
 
-![5_anillo](./5_anillo.png)
+![5_anillo](./5_anillo.jpg)
 
 
 
