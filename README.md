@@ -21,7 +21,7 @@ De la metodología propuesta para medir el $V_{IH}$, $V_{IL}$, $V_{OH}$ y $V_{OL
 
 ![apli_diodo](./apli_diodo.png)
 
-![recuperacion](./recuperacion.png)
+![recuperacion](./recuperacion.jpg)
 
 ![3_anillo](./3_anillo.png)
 
