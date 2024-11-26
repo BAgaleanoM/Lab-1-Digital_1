@@ -26,11 +26,13 @@ De la metodología propuesta para medir el $V_{IH}$, $V_{IL}$, $V_{OH}$ y $V_{OL
 Respecto al tiempo de subida y los demás tiempos de reacción: 
 ![recuperacion](./recuperacion.jpg)
 
-|  | 74LS04 | CD4069 |
-|----------|----------|----------|
-| Subida ($t_r$)  |    |    |
-| Bajada $t_f$    |    |    |
-| Row 3    |    |    |
+| **Parámetro**               | **74LS04**          | **CD4069**          |
+|-----------------------------|---------------------|---------------------|
+| **$t_r$ (Tiempo de subida)** | ~10 ns              | ~30 ns              |
+| **$t_f$ (Tiempo de bajada)** | ~10 ns              | ~30 ns              |
+| **$t_{PLH}$ (Retardo Propagación)** | ~15 ns          | ~30 ns              |
+| **$t_{PHL}$ (Retardo Propagación)** | ~15 ns          | ~30 ns              |
+
 
 tiempo de retardo ($t_{phl}$ y $t_{plh}$)
 ## Oscilador basado en compuertas NOT CMOS 
