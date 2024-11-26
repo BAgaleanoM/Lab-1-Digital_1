@@ -20,6 +20,8 @@ En la imagen se puede ver la simulación en qucs usando las compuertas TTL y CMO
 De la metodología propuesta para medir el $V_{IH}$, $V_{IL}$, $V_{OH}$ y $V_{OL}$, no se obtuvieron resultados satisfactorios, puesto que aparentemente la resistencia de entrada y salida de los dispositivos es demasiado alta, del orden de los $10M\Omega$, y por consiguiente deberíamos tener potenciómetros del mismo rango. Por tanto, identificar aquellas tensiones umbral no fue posible. Se realizó la prueba de comprobación de conmutación dispuesta en el datasheet del CMOS, como se muestra en la siguiente imagen, para lo cual los resultados fueron positivos.
 
 ![apli_diodo](./apli_diodo.png)
+![3_anillo](./3_anillo)
+![5_anillo](./5_anillo)
 
 
 
