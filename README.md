@@ -12,7 +12,7 @@ El CD4069 es un integrado de la familia lógica CMOS (Complementary Metal-Oxide-
 
 Este integrado tiene una alta inmunidad al ruido y es capaz de manejar corrientes de salida moderadas que dependen del voltaje de alimentación, alcanzando un máximo de 3.4 mA a 15 V. También opera en temperaturas que van de -55°C a 125°C, lo que lo hace robusto en entornos variados.
 
-
+![compuertas](./compuertas.png)
 
 
 
