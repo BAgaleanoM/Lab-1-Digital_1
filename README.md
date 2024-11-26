@@ -1,6 +1,5 @@
 # Digital 1, Lab 1: COMPARACIÓN DE TECNOLOGÍA CMOS y TTL
 
-## Parte 1
 
 ### Especificaciones técnicas Negador TTL 74LS04
 La compuerta negadora 74LS04 pertenece a la familia lógica TTL (Transistor-Transistor Logic) de tipo Low Power Schottky, conocida por su alta velocidad. Este integrado incluye seis compuertas NOT independientes. El voltage de operación dc tiene un rango desde 4.75V hasta los 5.2V. Su voltaje de operación estándar es de 5 V, aunque puede soportar hasta un máximo de 7 V. El tiempo de propagación es rápido, rondando los 10 a 15 nanosegundos, y tiene la capacidad de manejar corrientes de salida de hasta 8 mA en estado bajo y 0.4 mA en estado alto.
@@ -13,10 +12,9 @@ El CD4069 es un integrado de la familia lógica CMOS (Complementary Metal-Oxide-
 
 Este integrado tiene una alta inmunidad al ruido y es capaz de manejar corrientes de salida moderadas que dependen del voltaje de alimentación, alcanzando un máximo de 3.4 mA a 15 V. También opera en temperaturas que van de -55°C a 125°C, lo que lo hace robusto en entornos variados.
 
-## Parte 2
 
 
 
 
-## Parte 3
+
 
