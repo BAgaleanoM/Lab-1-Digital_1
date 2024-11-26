@@ -12,8 +12,10 @@ El CD4069 es un integrado de la familia lógica CMOS (Complementary Metal-Oxide-
 
 Este integrado tiene una alta inmunidad al ruido y es capaz de manejar corrientes de salida moderadas que dependen del voltaje de alimentación, alcanzando un máximo de 3.4 mA a 15 V. También opera en temperaturas que van de -55°C a 125°C, lo que lo hace robusto en entornos variados.
 
+##Observación de compuertas TTL y CMOS
 ![compuertas](./compuertas.png)
 
+En la imagen se puede ver la simulación en qucs usando las compuertas TTL y CMOS mencionadas al inicio. El mismo comportamiento se obtuvo al conectar de la misma manera las compuertas en el laboratorio. Es evidente que las compuertas CMOS tienen una señal de salida (negada) mucho más similar a la entrada respecto al negador TTL, lo cula indica en principio que las CMOS se comportan de mejor manera.
 
 
 
