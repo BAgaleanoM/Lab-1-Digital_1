@@ -46,6 +46,6 @@ Se montaron los osciladores con las compuertas CMOS, como se pedía. El primero 
 
 ## Simulacion Oscilador 
 
-![Oscilador](./oscilador.png)
+![Oscilador](./Oscilador.png)
 )
 
