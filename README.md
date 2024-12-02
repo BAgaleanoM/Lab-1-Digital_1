@@ -46,5 +46,6 @@ Se montaron los osciladores con las compuertas CMOS, como se pedía. El primero 
 
 ## Simulacion Oscilador 
 
-![Imagen](https://github.com/usuario/repositorio/raw/main/ruta/a/tu/imagen.jpg)
+![5_anillo](![oscilador](https://github.com/user-attachments/assets/f0e5a882-9f3d-44e6-b302-1f27f154db0c)
+)
 
